@@ -17,7 +17,7 @@
 5.Biwise: &,|,~,^(xor),>>(right shift),<<(left s)
 6.Membership: in,not,in
 7.Identity: is,is not
-
+ #sdfds
 
 #data and types
 1.int(all double , long etc in int and similarly for all )
