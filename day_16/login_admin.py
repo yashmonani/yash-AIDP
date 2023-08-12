@@ -19,7 +19,7 @@ ttk.Entry(login_app,font=font_, textvariable=uname).place(x=250,y=80)
 
 ttk.Label(login_app,text='Password').place(x=100,y=130)
 ttk.Entry(login_app,font=font_,show='*',textvariable=pwd).place(x=250,y=130)
-
+ 
 def submit():   
     op=''
     with open('opr','r') as f:

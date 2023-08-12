@@ -5,7 +5,7 @@ app.title('Attendeance System')
 app.geometry('600x400')
 
 font_=font.Font(size=20)
-ttk.Label(
+ttk.Label( 
     app,
     text='Face Recognition Based Attendance System',
     font=font_
